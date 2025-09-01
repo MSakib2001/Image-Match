@@ -17,6 +17,12 @@ The game is a **turn-based image matching competition** played across two PSoC 6
 
 ---
 
+## 🖥️ Board Used
+
+![PSoC6 board](353_board.jpg)
+
+---
+
 ## 🧩 Features
 
 - 🔄 **Turn-Based Multiplayer** – Two players alternate turns using synchronized state sharing over UART  
